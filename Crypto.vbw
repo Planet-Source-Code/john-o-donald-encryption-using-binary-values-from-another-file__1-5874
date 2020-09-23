@@ -1,0 +1,5 @@
+frmDragDrop = 0, 0, 0, 0, C, 22, 22, 405, 445, C
+modAPI = 0, 0, 0, 0, C
+clsMousePointer = 22, 22, 405, 445, C
+ModSHBrowse = 0, 0, 0, 0, C
+ModSHFileInfo = 0, 0, 0, 0, C
